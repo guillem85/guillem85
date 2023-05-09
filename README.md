@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guillem85
-- 👀 I’m interested in Data, ML, IA
-- 🌱 I’m currently learning Data Analytics and python language
+- 👀 I’m interested in Data Analytics, DataScience, ML, IA
+- 🌱 I’m currently learning Data Science with python language
 - 💞️ I’m looking to collaborate on RPA and Data projects
 - 📫 How to reach me guillem85@gmail.com
 
