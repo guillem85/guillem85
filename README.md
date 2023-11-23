@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @guillem85
+- 👋 Hi, I’m @guillem85 i'm a Data Scientist
 - 👀 I’m interested in Data Analytics, DataScience, ML, IA
-- 🌱 I’m currently learning Data Science with python language
-- 💞️ I’m looking to collaborate on RPA and Data projects
+- 🌱 I’m 'still' learning Data Science with python language
+- 💞️ I’m looking to collaborate on Data projects
 - 📫 How to reach me guillem85@gmail.com
 
 <!---
